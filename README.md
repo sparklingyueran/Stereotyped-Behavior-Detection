@@ -1,6 +1,7 @@
 # Stereotyped Behavior Detection
 
-
+## Introduction
+This repository contains the official implementation of the methods described in our paper *Stereotyped Behavior Detection Using Vision-Language Model-Based Feature Extraction and Text-to-Video Data Augmentati*. The code has been provided to allow for reproduction of the results and further experimentation. 
 
 ## Dataset Access and License Agreement
 
