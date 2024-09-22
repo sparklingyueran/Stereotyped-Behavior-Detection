@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains the official implementation of the methods described in our paper *Stereotyped Behavior Detection Using Vision-Language Model-Based Feature Extraction and Text-to-Video Data Augmentation*. 
 
-The code has been provided to allow for reproduction of the results and further experimentation. 
+The code has been provided to allow for reproduction of the results and further experimentation. You need to 。modify the paths in the code according to your own data and models.
 
 Step 1:
 ```
