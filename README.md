@@ -5,6 +5,22 @@ This repository contains the official implementation of the methods described in
 
 The code has been provided to allow for reproduction of the results and further experimentation. 
 
+Step 1:
+```
+python RUS/run.py
+```
+
+Step 2:
+```
+python RPS/run.py
+```
+
+Step 3:
+
+Notebooks in the Fusion folder.
+
+
+
 ## Dataset Access and License Agreement
 
 Before accessing this dataset, users must agree to the terms and conditions outlined in the accompanying license agreement. By downloading or using this dataset, you agree to comply with the following the License Agreement.
